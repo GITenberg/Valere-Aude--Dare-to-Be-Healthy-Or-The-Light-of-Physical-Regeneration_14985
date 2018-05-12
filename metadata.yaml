@@ -1,0 +1,26 @@
+_repo: Valere-Aude--Dare-to-Be-Healthy-Or-The-Light-of-Physical-Regeneration_14985
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dechmann, Louis
+    gutenberg_agent_id: '5770'
+    url: http://www.gutenberg.org/2009/agents/5770
+description: Cover -- Contents.
+gutenberg_bookshelf: Medicine
+gutenberg_issued: '2005-02-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14985'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'RM'
+- !lcsh 'Diet therapy'
+- !lcsh 'Health'
+title: 'Valere Aude: Dare to Be Healthy, Or, The Light of Physical Regeneration'
+url: http://www.gutenberg.org/ebooks/14985
